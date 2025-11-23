@@ -1,66 +1,14 @@
 # WayToGreen — Roadmap
 
-## 2025 — Foundation Phase
+The development of WayToGreen is structured in several carefully planned phases that reflect both the early-stage nature of the project and the long-term ambition behind it. The initial phase focuses on establishing the conceptual foundation of the protocol. During this stage, the token architecture, the ecological valuation model and the overarching system design are defined. Essential documentation is created, including the first version of the whitepaper and the project repository. The goal of this period is to translate the core idea of WayToGreen into a coherent framework that can guide all future development steps.
 
-### Q1 2025 — Project Formation
-- Initial concept development and definition of the three-token architecture (TREE, O2, GoGreen).  
-- Creation of the GitHub repository and open-source project structure.  
-- Drafting of the WayToGreen README and initial Whitepaper.  
-- Establishment of documentation structure (`/docs/`).  
+Following this foundational work, the project moves toward shaping the technical architecture. This involves outlining the behaviour of the smart contracts that will support TREE, O2 and GoGreen, as well as establishing the principles on which forest mapping and verification will operate. At the same time, groundwork is laid for the user-facing components of the system, such as the design direction for the website and the primary interface through which participants will later interact with the protocol. This stage is primarily analytical and preparatory, ensuring that the technical roadmap is feasible, consistent and aligned with the ecological goals of the project.
 
-### Q2 2025 — Early Development & Infrastructure
-- Extended Whitepaper publication with ecological and technical model.  
-- Creation of a stable roadmap and long-term development plan.  
-- Research phase for choosing the base blockchain (Celo, Polygon, Base).  
-- Start of design and structure for the official WayToGreen website.  
+Once the conceptual and architectural stages have matured, WayToGreen enters its initial development phase. Early prototypes of the smart contracts are created and tested in controlled environments. These prototypes do not represent final versions but serve to validate the core mechanics and identify areas that require refinement. In parallel, the first implementation of the ecological valuation model begins, allowing simulated environmental data to be translated into preliminary O2 outputs. This marks the transition from theoretical design to tangible development.
 
----
+As the system stabilizes, the project progresses toward a public test environment. During the testnet phase, the smart contracts are deployed on an energy-efficient blockchain and made available for community testing. A basic version of the WayToGreen dashboard is introduced, offering an initial visual interface for users. Simulated ecological datasets are used to evaluate the behaviour of the protocol under realistic conditions, and the feedback gathered during this stage contributes significantly to improving the system before any wider release.
 
-## 2026 — Development Phase
+The testnet stage gradually evolves into an early operational phase in which a beta version of the WayToGreen ecosystem becomes publicly accessible. At this point, the core components of the platform—such as the dashboard, the mapping logic and the initial O2 marketplace—become usable in a practical context. Cooperation with environmental partners begins, enabling the onboarding of the first verified forest areas and the generation of initial O2 values derived from real ecological data. This marks the moment where the digital and physical layers of the project begin to interact in a meaningful way.
 
-### Q1 2026 — Technical Architecture Preparation
-- High-level system design for smart contracts (TREE / O2 / GoGreen).  
-- Establishing basic forest-mapping logic and verification model.  
-- Begin work on token behavior definitions (minting, supply, mechanics).  
-- UI/UX drafts for the main website and user dashboard.
-
-### Q2 2026 — Smart Contract Development (Early Stage)
-- Creation of initial smart contract prototypes for internal testing.  
-- Preparation for a testnet environment.  
-- Start implementing the O2 ecological valuation framework.  
-- Publishing internal technical documentation for contributors.
-
----
-
-## 2027 — Testnet & Ecosystem Phase
-
-### Q1 2027 — Testnet Deployment
-- Deployment of TREE, O2 and GoGreen smart contracts on a public testnet.  
-- Launch of the first basic WayToGreen dashboard (alpha version).  
-- Internal simulation of environmental data → O2 output testing.  
-- Community testing round with early contributors.
-
-### Q2 2027 — O2 Marketplace Prototype
-- Prototype marketplace for buying, retiring and verifying O2 credits.  
-- Testing TREE → O2 generation cycle with demonstration data.  
-- Expansion of ecological datasets and validation model.
-
----
-
-## 2028 — Early Launch Phase
-
-### Q1 2028 — Beta Network Release
-- Beta release of WayToGreen ecosystem on chosen L1/L2 chain.  
-- Public version of the dashboard and O2 marketplace.  
-- Integration of environmental partners for real-world forest data.  
-
-### Q2 2028 — First Verified Environmental Credits
-- First batch of real TREE-backed land onboarded.  
-- Generation of the first verified O2 tokens based on actual ecological input.  
-- Foundation of the long-term governance structure through GoGreen token.
-
----
-
-## Long-Term Vision (Post-2028)
-WayToGreen aims to expand into a global regenerative-finance ecosystem, integrating real-time ecological data, satellite forest verification, partnerships with environmental NGOs and industry use-cases for transparent sustainability reporting.
+Beyond the beta release, WayToGreen focuses on sustainable, long-term expansion. Future plans include the refinement of the ecological valuation model, the integration of improved verification methods, the development of user tools for monitoring forest contributions and the gradual introduction of governance functions through the GoGreen token. Over time, WayToGreen aims to evolve into a fully developed regenerative-finance ecosystem in which environmental responsibility, technological transparency and economic incentives reinforce one another.
 
